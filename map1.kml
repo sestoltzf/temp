@@ -1,0 +1,1309 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>JS Energi Helsingborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1603-FF5252-labelson-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff5252</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.760396,56.0773626</coordinates></Point></Placemark>
+<Placemark>
+<name>JS Energi Göteborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1603-FF5252-labelson-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff5252</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9576647,57.6530504</coordinates></Point></Placemark>
+<Placemark>
+<name>JS Energi Jönköping</name><description><![CDATA[Fridhemsvägen 29, <br>553 02 Jönköping]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1603-FF5252-labelson</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff5252</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1632591,57.7597441</coordinates></Point></Placemark>
+<Placemark>
+<name>JS Energi Växjö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1603-FF5252-labelson-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff5252</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.8350443,56.9047469</coordinates></Point></Placemark>
+<Placemark>
+<name>JS Energi Halmstad</name><description><![CDATA[Skyttevägen 19<br>302 44 Halmstad]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1603-FF5252-labelson</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff5252</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8810252,56.6811598</coordinates></Point></Placemark>
+<Placemark>
+<name>JS Energi Kristianstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1603-FF5252-labelson-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff5252</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.147099,56.04549</coordinates></Point></Placemark>
+<Placemark>
+<name>JS Energi Malmö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1603-FF5252-labelson-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ff5252</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0029083,55.6114828</coordinates></Point></Placemark>
+<Placemark>
+<name>Anton Seffert</name><description><![CDATA[Jonstorpsvägen 52<br>263 71 Jonstorp]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.6738506,56.2284895</coordinates></Point></Placemark>
+<Placemark>
+<name>David Mark</name><description>Måns Andreas Väg 5, 241 95	Billinge</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.3284448,55.9646626</coordinates></Point></Placemark>
+<Placemark>
+<name>Johan Reinhold</name><description>Muraregatan 33	26533	Åstorp</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9369886,56.1423769</coordinates></Point></Placemark>
+<Placemark>
+<name>Philip Lindgren</name><description>Gånge-Rolfs gata 22, 253 62	Helsingborg</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.7512405,56.0050349</coordinates></Point></Placemark>
+<Placemark>
+<name>Rikard Thell</name><description>Kyrkogatan 4, 312 30 Laholm</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0396901,56.5125876</coordinates></Point></Placemark>
+<Placemark>
+<name>Josefin Kvarnerup</name><description>Katthögsvägen 70-60, 244 91	Kävlinge</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.175629,55.8357342</coordinates></Point></Placemark>
+<Placemark>
+<name>Mikael Gadd</name><description>Fiskargränden 29, 261 31	Landskrona</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8294018,55.8688615</coordinates></Point></Placemark>
+<Placemark>
+<name>Mladen Barkijevic </name><description>Hjalmars Väg 19, 253 55	Mörarp</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8752512,56.0617656</coordinates></Point></Placemark>
+<Placemark>
+<name>Sergej Mulabdic</name><description>Skånevägen 87C, 245 38	Staffanstorp</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.1914277,55.6404461</coordinates></Point></Placemark>
+<Placemark>
+<name>Sasa Jeric</name><description>Rusthållsvägen 2, 261 65 Härslöv</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8726547,55.9302247</coordinates></Point></Placemark>
+<Placemark>
+<name>Mikael Häggendal</name><description>Gästgivarevägen 10, 31 396	Simlångsdalen</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.1282609,56.7207259</coordinates></Point></Placemark>
+<Placemark>
+<name>Sebastian Pålsson</name><description>Torggatan 12, 265 71	Kvidinge</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.04884,56.1350114</coordinates></Point></Placemark>
+<Placemark>
+<name>Ramin Yousefpoor Tostani</name><description><![CDATA[Balders väg 36<br>246 31 Löddeköpinge]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0027828,55.7549245</coordinates></Point></Placemark>
+<Placemark>
+<name>Tom Persson</name><description>Värmö 5990, 268 73	Billeberga</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-FFEA00</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#ffea00</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0114219,55.8785138</coordinates></Point></Placemark>
+<Placemark>
+<name>Benny Karlsson</name><description><![CDATA[Rangelvägen 47<br>475 35 Grötö]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.6783624,57.6961991</coordinates></Point></Placemark>
+<Placemark>
+<name>Joel Boström</name><description><![CDATA[Silleskärsgatan 2<br>421 59 Västra Frölunda]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.8816315,57.6434073</coordinates></Point></Placemark>
+<Placemark>
+<name>Johan Zarwel</name><description><![CDATA[Hällingsjövägen 770 B<br>434 97 Kungsbacka]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.2036079,57.5101035</coordinates></Point></Placemark>
+<Placemark>
+<name>Malte Rundström</name><description><![CDATA[Hogenskildsgatan 13<br>416 57 Göteborg]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0152111,57.7106333</coordinates></Point></Placemark>
+<Placemark>
+<name>Mikael Kuisma</name><description><![CDATA[Krokängsvägen 230<br>449 40 Nol]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0588044,57.9034139</coordinates></Point></Placemark>
+<Placemark>
+<name>Tim Johansson</name><description><![CDATA[Årekulla Hagen 1<br>512 64 Holsljunga]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9474333,57.3958055</coordinates></Point></Placemark>
+<Placemark>
+<name>Morten Ahnström</name><description>Fredåsgatan 28, 431 67 Mölndal</description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0083216,57.6725553</coordinates></Point></Placemark>
+<Placemark>
+<name>Jonas Larsson</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-097138-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#097138</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0661069,57.8921472</coordinates></Point></Placemark>
+<Placemark>
+<name>Adam Vilhelmsson</name><description><![CDATA[Månseryd 3<br>564 91 Bankeryd]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-9C27B0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#9c27b0</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1034739,57.8292449</coordinates></Point></Placemark>
+<Placemark>
+<name>Bojan Balen</name><description><![CDATA[Genvägen 1<br>283 43 Osby]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-9C27B0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#9c27b0</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.0105047,56.3735924</coordinates></Point></Placemark>
+<Placemark>
+<name>Ervin Skoric</name><description><![CDATA[Parkgatan 11<br>283 31 Osby]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-9C27B0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#9c27b0</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.9913207,56.3814342</coordinates></Point></Placemark>
+<Placemark>
+<name>Håkan Karlström</name><description><![CDATA[Sandliljevägen 11<br>297 31 Degeberga]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-9C27B0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#9c27b0</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.0842494,55.8390098</coordinates></Point></Placemark>
+<Placemark>
+<name>Spiros Sintridis</name><description><![CDATA[Wetterlinsgatan 28B<br>521 34 Falköping]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-9C27B0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#9c27b0</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.5665374,58.1713624</coordinates></Point></Placemark>
+<Placemark>
+<name>Marcus Avander</name><description><![CDATA[Kronovägen 4<br>281 46 Tormestorp]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-9C27B0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#9c27b0</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.7457121,56.1120194</coordinates></Point></Placemark>
+<Placemark>
+<name>Viktor Bengtsson</name><description><![CDATA[Gethornskroken 13 B lgh 1201<br>281 49 Hässleholm]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1502-9C27B0</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#9c27b0</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.7535896,56.1586551</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Helsingborg</name><description><![CDATA[Diabasgatan 9<br>254 68 Helsingborg]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.7592985,56.0789081</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Ängelholm</name><description><![CDATA[Verkstadsgatan 12<br>262 71 Ängelholm]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8903065,56.2497583</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Hässleholm</name><description><![CDATA[Industrigatan 4<br>281 41 Hässleholm]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.7800009,56.1633983</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Skövde</name><description><![CDATA[Kylarvägen 3<br>541 34 Skövde<br>0500444510]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.881032,58.39781</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Kristianstad</name><description><![CDATA[Karlsgatan 36<br>291 59 Kristianstad]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1352495,56.0222243</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Karlskrona</name><description><![CDATA[Gullbernavägen 23A<br>371 47 Karlskrona<br>0455368870]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.6305084,56.1998548</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Växjö</name><description><![CDATA[Arabygatan 55<br>325 46 Växjö]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.781321,56.894197</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Varberg</name><description><![CDATA[Signalvägen 2<br>432 32 Varberg]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.2967882,57.1258583</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Västra Frölunda</name><description><![CDATA[August Barks gata 2<br>421 32 Västra Frölunda]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9416821,57.6478521</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Mölndal</name><description><![CDATA[Norra Ågatan 38<br>431 37 Mölndal]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.012537,57.6688194</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Gamlestan</name><description><![CDATA[Gamlestadsvägen 14<br>415 02 Göteborg]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0055615,57.7296371</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Hisings Backa</name><description><![CDATA[Exportgatan 13<br>422 46 Hisings Backa]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9873711,57.7320554</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Kungälv</name><description><![CDATA[Solbräckegatan 4<br>44245 Kungälv]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9428162,57.8911812</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Uddevalla</name><description><![CDATA[Almåsvägen 2B<br>451 75 Uddevalla<br>0522670780]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.8517945,58.350159</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Trollhättan</name><description><![CDATA[Kardanvägen 36<br>461 38 Trollhättan<br>0520473570]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.335495,58.2972083</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Borås</name><description><![CDATA[Getängsvägen 1<br>504 68 Borås<br>033447040]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9221541,57.7263558</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Jönköping</name><description><![CDATA[Kämpevägen 25<br>553 02 Jönköping<br>036304700]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1617522,57.7630118</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Malmö City</name><description><![CDATA[Lundavägen 62<br>212 25 Malmö<br>0406727680]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.037381,55.6122956</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Hindby</name><description><![CDATA[Östra Hindbyvägen 24<br>213 74 Malmö<br>040314100]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.03413,55.572685</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Fossie</name><description><![CDATA[Agnesfridsvägen 185C<br>213 75 Malmö<br>040314080]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.043432,55.5636812</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Trelleborg</name><description><![CDATA[Tommarpsvägen 116<br>231 66 Trelleborg<br>041048070]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.131574,55.3861156</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Ystad</name><description><![CDATA[Bronsgatan 5<br>271 39 Ystad<br>0411558490]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.837355,55.436823</coordinates></Point></Placemark>
+<Placemark>
+<name>DahlCenter Lund</name><description><![CDATA[Traktorvägen 12<br>226 60 Lund<br>046325780]]></description><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.1584587,55.7178649</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Alingsås</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.5580443,57.9425037</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Borås</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9111433,57.7123718</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Emmaboda</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.535083,56.628767</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Falkenberg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.4959163,56.9151306</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Falköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.5602517,58.1528458</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Gislaved</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.5444154,57.3021354</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Göteborg Almedal</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0014451,57.6851336</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Göteborg Biskopsgården</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.8934018,57.7258357</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Göteborg Biskopsgården</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.8839898,57.7077102</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Göteborg Hisings Backa</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9862579,57.7324385</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Göteborg Marieholm</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9918739,57.722014</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Göteborg Partille</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0893936,57.7383079</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Halmstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8895061,56.6814844</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Helsingborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.7543961,56.041274</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Hässleholm</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.7790622,56.1631129</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Jönköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.184344,57.764666</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Kalmar</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.3257122,56.6769447</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Karlshamn</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.845395,56.1841163</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Karlskrona</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.640133,56.201918</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Kristianstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1526191,56.0225293</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Kungsbacka</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0732011,57.5103492</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Kungälv</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.942511,57.87764</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Landskrona</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.854701,55.884122</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Lidköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.1800229,58.5018688</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Linköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.5977418,58.4279713</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Ljungby</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.915641,56.818951</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Lund</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.2205151,55.695375</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Malmö Bulltofta</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0594705,55.6067379</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Malmö Fosie</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.042276,55.553961</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Mariestad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.8328544,58.6913259</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Mjölby</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.0906221,58.3223068</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Motala</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.0170766,58.5361399</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Mölndal</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9990272,57.6420936</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Norrköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.1708809,58.6092874</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Oskarshamn</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.4460905,57.2507439</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Skövde</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.873855,58.397451</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Stenungsund</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.8701854,58.0612709</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Sävsjö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.6616266,57.3974486</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Trelleborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.1128092,55.386771</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Trollhättan</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.3198385,58.2968406</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Uddevalla</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.971907,58.354384</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Varberg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.298117,57.121772</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Vimmerby</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.86131,57.658054</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Värnamo</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.0097199,57.1767994</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Västervik</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.623598,57.754132</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Växjö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.7648992,56.8872642</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Ystad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.836594,55.437833</coordinates></Point></Placemark>
+<Placemark>
+<name>Ahlsell Ängelholm</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.90916,56.250475</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Malmö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0441743,55.5588832</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Lund</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.2145034,55.6925971</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Helsingborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.7582598,56.0750513</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Kristianstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1354594,56.0223761</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Halmstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8922412,56.6816039</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Växjö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.7750331,56.8929561</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Kalmar</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.3201035,56.6953305</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Järnforsen</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.630807,57.4078221</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Jönköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1679054,57.7540403</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Borås</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8877657,57.7171526</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Mölndal</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0162476,57.6374832</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Högsbo</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9416756,57.648249</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Bäckebol</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9961105,57.7558779</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Trollhättan</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.3488487,58.2965746</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Linköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.600301,58.4266142</coordinates></Point></Placemark>
+<Placemark>
+<name>Bevego Norrköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.2246858,58.5889336</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Malmö - Fosie</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0305512,55.5561081</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Malmö - Bulltofta</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.065045,55.607563</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Lund</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.215,55.6905594</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Kristianstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1237911,56.0147998</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Helsingborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.7227282,56.0702825</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Karlskrona</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.6308334,56.199691</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Kalmar</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.3149377,56.6726102</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Växjö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.7833645,56.8841692</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Halmstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8905152,56.6600302</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Falkenberg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.4809345,56.9114179</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Värnamo</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.0584358,57.1839802</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Värnamo</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.0584358,57.1839802</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Borås - Kyrkogårdsgatan</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9356183,57.7152659</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Kungsbacka</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.071679,57.510243</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Frölunda</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.945985,57.6468888</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Mölndal</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.0095191,57.6742779</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Göteborg Hisingen</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9325117,57.7093704</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexcel Göteborg Marieholm</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9958949,57.7232385</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Borås - Stuartgatan</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9228849,57.7286739</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Jönköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1651131,57.7555947</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Göta</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.1406577,58.1084219</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexcel Trollhättan</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.329879,58.294777</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexcel Uddevalla</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9617787,58.3556919</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexcel Skövde</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.8671218,58.4082518</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexcel Mariestad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.81947,58.684028</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexel Linköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.6220358,58.4220068</coordinates></Point></Placemark>
+<Placemark>
+<name>Rexcel Norrköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.2187003,58.5922432</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Malmö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>13.0372836,55.6000299</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Helsingborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.733155,56.078693</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Halmstad</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.8965309,56.6583976</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Växjö</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.7813826,56.8915497</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Jönköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>14.1731965,57.7644947</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Borås</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9492688,57.7142924</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Göteborg Högsbo</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9475171,57.6494768</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Göteborg City</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9850603,57.7193127</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Uddevalla</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9178385,58.3525404</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Linköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>15.5931776,58.4301896</coordinates></Point></Placemark>
+<Placemark>
+<name>Solar Norrköping</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1684-0288D1-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#0288d1</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>16.1771597,58.6075429</coordinates></Point></Placemark>
+<Placemark>
+<name>Tim Johansson</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1899-DB4436-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#db4436</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon-offset"><value>[32,64]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","insetPixels"]</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>12.9473588,57.3956771</coordinates></Point></Placemark>
+<Placemark>
+<name>JS Energi Göteborg</name><ExtendedData>
+  <Data name="styleUrl"><value>#icon-1899-DB4436-nodesc</value></Data>
+  <Data name="icon-opacity"><value>1</value></Data>
+  <Data name="icon-color"><value>#db4436</value></Data>
+  <Data name="icon-scale"><value>1</value></Data>
+  <Data name="icon-offset"><value>[32,64]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","insetPixels"]</value></Data>
+  <Data name="icon"><value>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</value></Data></ExtendedData>
+  <Point><coordinates>11.9576127,57.6530375</coordinates></Point></Placemark></Document></kml>
